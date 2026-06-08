@@ -1,0 +1,24 @@
+﻿{
+    "domain":  "b9pakistanapp.com",
+    "market":  "Pakistan",
+    "register_url":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+    "last_polished":  "2026-06-08",
+    "content_pages":  21,
+    "homepage_has_register_cta":  true,
+    "no_login_links":  true,
+    "no_unrelated_product_direction":  true,
+    "seo_focus":  [
+                      "B9 Pakistan brand ownership",
+                      "B9 app and APK download long-tail",
+                      "B9 registration and referral conversion",
+                      "Pakistan payment/help searches",
+                      "Competitor-gap content on thin APK SERPs"
+                  ],
+    "maintenance_tasks":  [
+                              "Refresh screenshots and last checked notes",
+                              "Add Search Console query wins into matching pages",
+                              "Expand FAQ answers from real Pakistan user questions",
+                              "Keep all Register Now buttons pointed to the referral URL",
+                              "Keep all future content aligned with the observed B9 Pakistan product only"
+                          ]
+}

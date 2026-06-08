@@ -1,0 +1,21 @@
+{
+    "name":  "b9pakistanapp.com",
+    "short_name":  "b9pakistanapp",
+    "start_url":  "/",
+    "display":  "standalone",
+    "background_color":  "#fbfcf8",
+    "theme_color":  "#07392c",
+    "lang":  "en-PK",
+    "icons":  [
+                  {
+                      "src":  "/assets/b9-logo-192.png",
+                      "sizes":  "192x192",
+                      "type":  "image/png"
+                  },
+                  {
+                      "src":  "/assets/b9-logo-512.png",
+                      "sizes":  "512x512",
+                      "type":  "image/png"
+                  }
+              ]
+}

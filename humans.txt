@@ -1,0 +1,5 @@
+Site: b9pakistanapp.com
+Market: Pakistan
+Language: en-PK with Roman Urdu expansion
+Generated: 2026-06-08
+Purpose: B9 product guides, registration guidance, safety and support information

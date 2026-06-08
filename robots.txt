@@ -1,0 +1,6 @@
+﻿User-agent: *
+Allow: /
+Sitemap: https://b9pakistanapp.com/sitemap.xml
+Sitemap: https://b9pakistanapp.com/feed.xml
+Host: https://b9pakistanapp.com
+
