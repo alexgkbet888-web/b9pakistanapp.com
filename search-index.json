@@ -2,156 +2,45 @@
     {
         "value":  [
                       {
-                          "title":  "About b9pakistanapp.com | B9 Pakistan Guide Site",
-                          "description":  "b9pakistanapp.com is an independent Pakistan-focused B9 guide site for app, account, APK, games and safety information.",
-                          "url":  "/about/"
+                          "value":  [
+                                        {
+                                            "value":  "                           ",
+                                            "Count":  28
+                                        },
+                                        {
+                                            "title":  "B9game JazzCash Deposit Pakistan | Transaction ID Help",
+                                            "description":  "B9game JazzCash deposit Pakistan guide for pending deposits, transaction ID checks, wallet proof and verified support.",
+                                            "url":  "/b9game-jazzcash-deposit-guide/"
+                                        },
+                                        {
+                                            "title":  "B9game Withdrawal Pending Pakistan | Wallet Status Help",
+                                            "description":  "B9game withdrawal pending Pakistan guide for wallet status, account name match, timing checks and verified support escalation.",
+                                            "url":  "/b9game-withdrawal-pending-guide/"
+                                        }
+                                    ],
+                          "Count":  3
                       },
                       {
-                          "title":  "B9 App Bonus Pakistan | Registration and Deposit Bonus Guide",
-                          "description":  "B9 App bonus Pakistan guide covering registration bonus, deposit bonus terms and safety reminders.",
-                          "url":  "/app-bonus/"
+                          "title":  "B9game JazzCash Deposit Kaise Kare | Pakistan Guide",
+                          "description":  "Roman Urdu B9game JazzCash deposit guide for Pakistan users covering transaction ID, proof screenshot, exact amount and support checks.",
+                          "url":  "/b9game-jazzcash-deposit-kaise-kare/"
                       },
                       {
-                          "title":  "B9 Bank Transfer Pakistan | Deposit and Withdraw Notes",
-                          "description":  "B9 bank transfer Pakistan guide for account details, fees, pending transfers and safety checks.",
-                          "url":  "/bank-transfer/"
-                      },
-                      {
-                          "title":  "B9 CNIC Mismatch Pakistan | Account and Wallet Help",
-                          "description":  "B9 CNIC mismatch guide for Pakistan users with name, number, wallet and support checks.",
-                          "url":  "/cnic-mismatch/"
-                      },
-                      {
-                          "title":  "Contact b9pakistanapp.com | Support and Site Feedback",
-                          "description":  "Contact information for b9pakistanapp.com with guidance for account support, site feedback and safe communication.",
-                          "url":  "/contact/"
-                      },
-                      {
-                          "title":  "B9 Crypto Deposit Pakistan | Wallet Safety Guide",
-                          "description":  "B9 crypto deposit Pakistan guide with wallet checks, network reminders and risk notes.",
-                          "url":  "/crypto-deposit/"
-                      },
-                      {
-                          "title":  "B9 Deposit Pakistan | JazzCash Easypaisa Bank and Crypto Guide",
-                          "description":  "B9 deposit guide for Pakistan covering JazzCash, Easypaisa, bank, crypto, PKR and transaction proof.",
-                          "url":  "/deposit/"
-                      },
-                      {
-                          "title":  "B9 Deposit Not Received Pakistan | Payment Fix Guide",
-                          "description":  "B9 deposit not received guide for Pakistan users with proof checklist and support escalation.",
-                          "url":  "/deposit-not-received/"
-                      },
-                      {
-                          "title":  "B9 Easypaisa Pakistan | Deposit Help and Wallet Checks",
-                          "description":  "B9 Easypaisa Pakistan deposit help with payment proof, pending reasons and safe support.",
-                          "url":  "/easypaisa/"
-                      },
-                      {
-                          "title":  "b9pakistanapp.com FAQ | B9 Pakistan Questions",
-                          "description":  "B9 Pakistan FAQ hub for b9pakistanapp.com with registration, app, APK, wallet, support and safety questions.",
-                          "url":  "/faq/"
-                      },
-                      {
-                          "title":  "b9pakistanapp.com Guides | Complete B9 Pakistan Content Hub",
-                          "description":  "Complete B9 Pakistan guide index for b9pakistanapp.com with account, app, APK, wallet, support and game topics.",
-                          "url":  "/guides/"
-                      },
-                      {
-                          "title":  "B9 JazzCash Pakistan | Deposit and Wallet Guide",
-                          "description":  "B9 JazzCash Pakistan guide for deposit checks, transaction proof and support path.",
-                          "url":  "/jazzcash/"
-                      },
-                      {
-                          "title":  "B9 Payment Problems Pakistan | Deposit Not Received and Pending Withdraw",
-                          "description":  "B9 payment problem guide for Pakistan users with deposit not received, withdrawal pending and support escalation.",
-                          "url":  "/payment-problems/"
-                      },
-                      {
-                          "title":  "Privacy Policy | b9pakistanapp.com",
-                          "description":  "Privacy policy for b9pakistanapp.com explaining basic site logs, external registration links and no password collection.",
-                          "url":  "/privacy-policy/"
-                      },
-                      {
-                          "title":  "Responsible Access | b9pakistanapp.com",
-                          "description":  "Responsible 18+ access guidance for b9pakistanapp.com with safety reminders, risk notes and support direction.",
-                          "url":  "/responsible-access/"
-                      },
-                      {
-                          "title":  "B9 Wallet Safety Pakistan | Verified Support and Account Protection",
-                          "description":  "B9 wallet safety guide for Pakistan users with verified support, scam warnings and password protection.",
-                          "url":  "/safe-wallet/"
-                      },
-                      {
-                          "title":  "Terms of Use | b9pakistanapp.com",
-                          "description":  "Terms of use for b9pakistanapp.com covering informational content, 18+ access and external registration links.",
-                          "url":  "/terms/"
-                      },
-                      {
-                          "title":  "B9 Transaction ID Pakistan | Deposit Proof Guide",
-                          "description":  "B9 transaction ID guide explaining payment proof, screenshot checklist and support preparation.",
-                          "url":  "/transaction-id/"
-                      },
-                      {
-                          "title":  "b9pakistanapp.com Updates | B9 Pakistan Content Log",
-                          "description":  "Update log for b9pakistanapp.com showing B9 Pakistan SEO content, sitemap and mobile registration improvements.",
-                          "url":  "/updates/"
-                      },
-                      {
-                          "title":  "B9 Withdrawal Pakistan | Pending Withdraw and Wallet Checks",
-                          "description":  "B9 withdrawal guide for Pakistan users with pending withdraw reasons, wallet checks, CNIC and bank details.",
-                          "url":  "/withdraw/"
-                      },
-                      {
-                          "title":  "B9 Withdrawal Pending Pakistan | Wallet Help",
-                          "description":  "B9 withdrawal pending guide for Pakistan users with wallet checks, timing and verification reminders.",
-                          "url":  "/withdrawal-pending/"
-                      },
-                      {
-                          "title":  "B9 Pakistan App Today Check | Wallet, Bonus and H5 Access",
-                          "description":  "Daily B9 Pakistan app check for wallet, JazzCash, Easypaisa, deposit, withdrawal, bonus, H5 access and support notes.",
-                          "url":  "/today-app-check/"
-                      },
-                      {
-                          "title":  "B9 Withdrawal Time Pakistan | Pending Status and Wallet Checks",
-                          "description":  "B9 withdrawal time Pakistan guide for pending status, wallet details, transaction checks and support escalation.",
-                          "url":  "/withdrawal-time/"
-                      },
-                      {
-                          "title":  "B9 Deposit Time Pakistan | JazzCash, Easypaisa and Pending Help",
-                          "description":  "B9 deposit time Pakistan guide for JazzCash, Easypaisa, bank transfer, pending deposits and transaction ID checks.",
-                          "url":  "/deposit-time/"
-                      },
-                      {
-                          "title":  "B9 Bonus Terms Pakistan | App Bonus and Promotion Checks",
-                          "description":  "B9 bonus terms Pakistan guide for app bonus, registration bonus, promotion rules, eligibility and safe expectations.",
-                          "url":  "/bonus-terms/"
-                      },
-                      {
-                          "title":  "B9 JazzCash Deposit Pending Pakistan | Transaction ID Help",
-                          "description":  "B9 JazzCash deposit pending Pakistan guide for transaction ID, exact amount, wallet proof, status checks and verified support.",
-                          "url":  "/jazzcash-deposit-pending/"
-                      },
-                      {
-                          "title":  "B9 Easypaisa Withdrawal Pending Pakistan | Wallet Status Help",
-                          "description":  "B9 Easypaisa withdrawal pending Pakistan guide for wallet details, status checks, account name match and verified support.",
-                          "url":  "/easypaisa-withdrawal-pending/"
-                      },
-                      {
-                          "title":  "B9 Wallet Name Mismatch Pakistan | Deposit and Withdraw Help",
-                          "description":  "B9 wallet name mismatch Pakistan guide for account name checks, CNIC mismatch, JazzCash, Easypaisa and verified support.",
-                          "url":  "/wallet-name-mismatch/"
+                          "title":  "B9game Withdraw Kaise Kare | Pakistan Wallet Help",
+                          "description":  "Roman Urdu B9game withdrawal guide for Pakistan users covering pending withdrawals, wallet detail match, CNIC/name checks and support escalation.",
+                          "url":  "/b9game-withdraw-kaise-kare/"
                       }
                   ],
-        "Count":  28
+        "Count":  3
     },
     {
-        "title":  "B9game JazzCash Deposit Pakistan | Transaction ID Help",
-        "description":  "B9game JazzCash deposit Pakistan guide for pending deposits, transaction ID checks, wallet proof and verified support.",
-        "url":  "/b9game-jazzcash-deposit-guide/"
+        "title":  "B9game JazzCash Deposit Kaise Kare | Pakistan Guide",
+        "description":  "Roman Urdu B9game JazzCash deposit guide for Pakistan users covering transaction ID, proof screenshot, exact amount and support checks.",
+        "url":  "/b9game-jazzcash-deposit-kaise-kare/"
     },
     {
-        "title":  "B9game Withdrawal Pending Pakistan | Wallet Status Help",
-        "description":  "B9game withdrawal pending Pakistan guide for wallet status, account name match, timing checks and verified support escalation.",
-        "url":  "/b9game-withdrawal-pending-guide/"
+        "title":  "B9game Withdraw Kaise Kare | Pakistan Wallet Help",
+        "description":  "Roman Urdu B9game withdrawal guide for Pakistan users covering pending withdrawals, wallet detail match, CNIC/name checks and support escalation.",
+        "url":  "/b9game-withdraw-kaise-kare/"
     }
 ]
