@@ -1,6 +1,7 @@
 ﻿(function () {
   const REGISTER_URL = "https://b9.game/refer/MDMxMjMxMjM1NTU=";
   const STORAGE_KEY = "b9_seo_event_counts";
+  const GA_MEASUREMENT_ID = "G-9JYSBM6CXG";
 
   function readCounts() {
     try {
@@ -33,6 +34,25 @@
       window.gtag("event", name, payload);
     }
     writeCount(name);
+  }
+
+  function loadGoogleAnalytics() {
+    if (!GA_MEASUREMENT_ID || window.__b9GaLoaded === GA_MEASUREMENT_ID) return;
+    window.__b9GaLoaded = GA_MEASUREMENT_ID;
+    window.dataLayer = window.dataLayer || [];
+    window.gtag = window.gtag || function () {
+      window.dataLayer.push(arguments);
+    };
+    window.gtag("js", new Date());
+    window.gtag("config", GA_MEASUREMENT_ID, {
+      send_page_view: true,
+      anonymize_ip: true
+    });
+
+    const script = document.createElement("script");
+    script.async = true;
+    script.src = "https://www.googletagmanager.com/gtag/js?id=" + encodeURIComponent(GA_MEASUREMENT_ID);
+    document.head.appendChild(script);
   }
 
   function ctaPosition(link) {
@@ -96,6 +116,7 @@
   }
 
   function init() {
+    loadGoogleAnalytics();
     bindRegisterClicks();
     bindSearch();
     bindGameFilters();
