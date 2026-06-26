@@ -1,0 +1,52 @@
+{
+  "schemaVersion": "1.0",
+  "domain": "b9pakistanapp.com",
+  "brand": "B9 Pakistan",
+  "market": "Pakistan",
+  "language": "en-PK",
+  "batch": "P2",
+  "owner": "core-team",
+  "repoUrl": "https://github.com/alexgkbet888-web/b9pakistanapp.com",
+  "deployUrl": "https://b9pakistanapp.com/",
+  "siteType": "payment",
+  "positioning": "B9 Pakistan app payment, wallet, EasyPaisa, JazzCash and crypto support hub",
+  "status": "active",
+  "registerTarget": "https://b9.game/refer/MDMxMjMxMjM1NTU=",
+  "primaryKeywords": [
+    "B9 payment Pakistan",
+    "B9 EasyPaisa",
+    "B9 JazzCash",
+    "B9 crypto Pakistan"
+  ],
+  "secondaryKeywords": [
+    "B9 wallet Pakistan",
+    "B9 deposit Pakistan",
+    "B9 withdraw Pakistan",
+    "B9game payment checklist"
+  ],
+  "competitors": [
+    "https://b9gameapp.com/",
+    "https://b9game.net/",
+    "https://b9game.io/"
+  ],
+  "technical": {
+    "sitemapUrl": "https://b9pakistanapp.com/sitemap.xml",
+    "robotsUrl": "https://b9pakistanapp.com/robots.txt",
+    "feedUrl": "https://b9pakistanapp.com/feed.xml",
+    "canonicalRoot": "https://b9pakistanapp.com/",
+    "hasH5Responsive": true,
+    "hasRegisterCta": true,
+    "hasLoginLink": false,
+    "hasLotteryDirection": false
+  },
+  "gsc": {
+    "property": "sc-domain:b9pakistanapp.com",
+    "connected": true
+  },
+  "contentPlan": {
+    "homepageAngle": "Pakistan payment and wallet intent",
+    "clusters": ["payment", "easypaisa", "jazzcash", "crypto", "wallet"],
+    "weeklyUpdateTarget": 3
+  },
+  "lastUpdated": "2026-06-27"
+}
