@@ -2,7 +2,7 @@
     "domain":  "b9pakistanapp.com",
     "market":  "Pakistan",
     "register_url":  "https://b9.game/refer/MDMxMjMxMjM1NTU=",
-    "last_polished":  "2026-06-11",
+    "last_polished": "2026-06-28",
     "content_pages":  23,
     "homepage_has_register_cta":  true,
     "no_login_links":  true,
@@ -22,3 +22,4 @@
                               "Keep all future content aligned with the observed B9 Pakistan product only"
                           ]
 }
+

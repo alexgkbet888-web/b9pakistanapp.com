@@ -1,4 +1,4 @@
-{
+﻿{
   "schemaVersion": "1.0",
   "domain": "b9pakistanapp.com",
   "brand": "B9 Pakistan",
@@ -48,5 +48,6 @@
     "clusters": ["payment", "easypaisa", "jazzcash", "crypto", "wallet"],
     "weeklyUpdateTarget": 3
   },
-  "lastUpdated": "2026-06-27"
+  "lastUpdated": "2026-06-28"
 }
+
