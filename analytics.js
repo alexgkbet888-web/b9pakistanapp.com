@@ -116,7 +116,7 @@
   }
 
   function init() {
-    loadGoogleAnalytics();
+    window.addEventListener("load", () => setTimeout(loadGoogleAnalytics, 1200), { once: true });
     bindRegisterClicks();
     bindSearch();
     bindGameFilters();
