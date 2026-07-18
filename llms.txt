@@ -1,16 +1,21 @@
-# b9pakistanapp.com
+# B9 Pakistan App Guide
 
-This site provides B9 Pakistan informational guides for adult users only.
+> Pakistan mobile app, device compatibility, update and account-access guides for adult users.
 
-Important URLs:
-- https://b9pakistanapp.com/
-- https://b9pakistanapp.com/sitemap.xml
-- https://b9pakistanapp.com/feed.xml
-- https://b9pakistanapp.com/responsible-access/
-- https://b9pakistanapp.com/privacy-policy/
+## Core Guides
 
-Content rules:
-- Pakistan market only.
-- No private account data is collected.
-- Register Now links point to the provided B9 registration route.
-- Account support should use verified support shown inside the B9 product.
+- [App guide home](https://b9pakistanapp.com/): Main mobile-app information hub.
+- [Android guide](https://b9pakistanapp.com/android/): Android access and compatibility notes.
+- [iPhone guide](https://b9pakistanapp.com/iphone/): Safari and H5 access guidance.
+- [App support](https://b9pakistanapp.com/support/): Mobile account and update troubleshooting.
+
+## Discovery
+
+- [XML sitemap](https://b9pakistanapp.com/sitemap.xml): Complete canonical URL inventory.
+- [RSS feed](https://b9pakistanapp.com/feed.xml): Recently updated content.
+
+## Usage Notes
+
+- Content is informational and intended for adult Pakistan users.
+- No private account data is collected by this guide site.
+- Registration links use the configured B9 product route; support identity should be verified inside the product.
