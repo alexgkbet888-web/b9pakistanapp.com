@@ -379,7 +379,7 @@ input {
 .matrix-body {
   background:
     linear-gradient(120deg, rgba(7, 57, 44, 0.94), rgba(32, 81, 119, 0.86)),
-    url("assets/bg-partner-network.png") center / cover fixed;
+    url("assets/bg-partner-network.webp") center / cover fixed;
   color: #fff;
 }
 
@@ -637,7 +637,7 @@ input {
   grid-template-columns: minmax(0, 0.9fr) minmax(320px, 0.8fr);
   background:
     linear-gradient(120deg, rgba(255, 255, 255, 0.96), rgba(234, 242, 233, 0.9)),
-    url("assets/bg-city-growth.png") center / cover;
+    url("assets/bg-city-growth.webp") center / cover;
 }
 
 .wallet-panel {
@@ -688,7 +688,7 @@ input {
   grid-template-columns: minmax(0, 0.88fr) minmax(320px, 0.86fr);
   background:
     linear-gradient(120deg, rgba(93, 39, 50, 0.94), rgba(8, 123, 85, 0.82)),
-    url("assets/bg-partner-network.png") center / cover;
+    url("assets/bg-partner-network.webp") center / cover;
   color: #fff;
 }
 
